@@ -1,0 +1,1 @@
+This project is about cloning an existing web page, breaking it, and then fixing it (as far as I can tell, we'll see as I get into it.) I will probably rewrite this section after the project is complete to summarize what I learned. 
