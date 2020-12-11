@@ -1,0 +1,29 @@
+<style>
+    header {
+        }
+    body {
+            margin: auto;
+        }
+
+    input {
+            margin:auto; width: 30%;
+            text-align: center;
+        }
+    button { color:white; background-color: blue;}
+
+    .logo {position: relative; margin:auto; height: 100px; width: 100px;
+        
+        }
+    .topbutton {
+
+        }
+    .centereditem {text-align: center;
+    }
+    #moreinfo {
+
+
+        }
+
+    #accounts {
+        }
+</style> 
