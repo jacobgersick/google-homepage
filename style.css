@@ -3,22 +3,48 @@
 
 /*Just writing the element will call and affect the corresponding elements in the HTML file
 */
+
+
 body {
-            margin: auto;
-        }
-
-input {
-            margin:auto; width: 30%;
-            text-align: center;
-        }
-button { color:rgb(90, 90, 90); background-color: whitesmoke; border-radius: 6px; padding: 8px;}
-
-/* Calling a 'class' from the HTML file is done with a '.' */
-.logo {position: relative; margin:auto; height: 100px; width: 100px;
-        
-        }
-.centereditem {text-align: center;
+    margin: 200px auto;
+    vertical-align: middle;
     }
 
-/*Calling an ID from the HTML file is done with a '#' */
+input {
+    margin-bottom:30px;
+    margin-top: 30px;
+    width: 30%;
+    text-align: center;
+    }
+button {color:rgb(90, 90, 90);
+    background-color: whitesmoke;
+    border-radius: 6px; 
+    padding: 8px;
+    margin: 5px;
+    }
 
+/* Calling a 'class' from the HTML file is done with a '.' */
+.logo {
+
+    height: 100px;
+    width: 100px;
+    }
+.centereditem {
+    text-align: center;
+    }
+
+.leftnav {
+    position: fixed;
+    top: 8px;
+    left: 16px;
+}
+.rightnav {
+    position: fixed;
+    top: 8px;
+    right: 16px;
+
+}
+/*Calling an ID from the HTML file is done with a '#' */
+#accounts{
+    background-color: dodgerblue;
+    }
