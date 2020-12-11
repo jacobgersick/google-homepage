@@ -1,29 +1,24 @@
-<style>
-    header {
-        }
-    body {
+/*Don't need an introduction statement*/
+
+
+/*Just writing the element will call and affect the corresponding elements in the HTML file
+*/
+body {
             margin: auto;
         }
 
-    input {
+input {
             margin:auto; width: 30%;
             text-align: center;
         }
-    button { color:white; background-color: blue;}
+button { color:rgb(90, 90, 90); background-color: whitesmoke; border-radius: 6px; padding: 8px;}
 
-    .logo {position: relative; margin:auto; height: 100px; width: 100px;
+/* Calling a 'class' from the HTML file is done with a '.' */
+.logo {position: relative; margin:auto; height: 100px; width: 100px;
         
         }
-    .topbutton {
-
-        }
-    .centereditem {text-align: center;
+.centereditem {text-align: center;
     }
-    #moreinfo {
 
+/*Calling an ID from the HTML file is done with a '#' */
 
-        }
-
-    #accounts {
-        }
-</style> 
